@@ -1,4 +1,4 @@
-# quiz_calculating
+# test_calculating
 
 A new Flutter project.
 
